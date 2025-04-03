@@ -2,3 +2,20 @@ h1{
     background-color: blue;
     color: red;
 }
+
+.h2Iinter{
+    background-color: black;
+    color: blue;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.h2Milan{
+    background-color: black;
+    color: red;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
